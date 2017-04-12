@@ -2,7 +2,7 @@
 
 l = []
 
-for i in range(1,4):
+for i in range(3):
     print("Bitte", i, ". Zahl eingeben:")
     x = int(input())
     if x < 0:
